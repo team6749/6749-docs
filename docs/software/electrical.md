@@ -1,3 +1,10 @@
+---
+layout: default
+title: Electrical
+parent: Software 101
+nav_order: 1
+---
+
 to program a robot, it is important to understand the basic components on the robot and how they behave since those are the things we directly interact with in code.
 
 **The reason we need to understand the electrical components is because our code effectively represents the inputs and outputs of those components. As a result of interacting with the real world things get messy and complex.**

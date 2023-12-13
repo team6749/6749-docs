@@ -1,3 +1,8 @@
+---
+layout: default
+title: External Software Resources
+---
+
 this is a list of individual resources that may be relevant or not.
 
 # Tips
