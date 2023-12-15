@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Software 101
+has_children: true
 ---
 
 
